@@ -1,0 +1,9 @@
+extern string N003_Signal_Descr = "--- Сигнала N003 кръстосване на WPR с барове -----";
+extern string N003_BarsCross_TimeFrameS = "H4";
+int N003_BarsCross_TimeFrame = PERIOD_H4;
+extern int N003_FastPeriod = 19;
+extern int N003_SlowPeriod = 39;
+extern int N003_BarsCross_BackBar = 6;
+extern int N003_Bars_Break = 13;
+extern int N003_MAPeriod = 25;
+extern int N003_ActiveTL = 1;
